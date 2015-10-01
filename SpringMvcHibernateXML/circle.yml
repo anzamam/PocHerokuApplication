@@ -60,7 +60,7 @@ test:
 ## Customize deployment commands
 deployment:
   staging:
-    branch: master
+    branch: prod
     heroku:
       appname: heroku-postgres-8b3cbe74
 
