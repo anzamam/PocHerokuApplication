@@ -4,4 +4,3 @@ deployment:
     branch: master
     heroku:
       appname: heroku-postgres-8b3cbe74
-
